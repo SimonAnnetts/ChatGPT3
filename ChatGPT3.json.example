@@ -1,0 +1,5 @@
+{
+    "OpenAI" : {
+        "ApiKey" : "OpenAI ChatGPT API Key here"
+    }
+}
